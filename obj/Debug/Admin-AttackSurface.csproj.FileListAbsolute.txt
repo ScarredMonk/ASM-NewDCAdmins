@@ -1,0 +1,8 @@
+C:\Users\dev\source\repos\Admin-AttackSurface\bin\Debug\Admin-AttackSurface.exe.config
+C:\Users\dev\source\repos\Admin-AttackSurface\bin\Debug\Admin-AttackSurface.exe
+C:\Users\dev\source\repos\Admin-AttackSurface\bin\Debug\Admin-AttackSurface.pdb
+C:\Users\dev\source\repos\Admin-AttackSurface\obj\Debug\Admin-AttackSurface.csproj.AssemblyReference.cache
+C:\Users\dev\source\repos\Admin-AttackSurface\obj\Debug\Admin-AttackSurface.csproj.SuggestedBindingRedirects.cache
+C:\Users\dev\source\repos\Admin-AttackSurface\obj\Debug\Admin-AttackSurface.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\Admin-AttackSurface\obj\Debug\Admin-AttackSurface.exe
+C:\Users\dev\source\repos\Admin-AttackSurface\obj\Debug\Admin-AttackSurface.pdb
